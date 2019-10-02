@@ -9,6 +9,7 @@
 - [Community](#community)
 - [Development](#development)
 - [Local Training](#local-training)
+- [Udacity](#udacity)
 - [Miscellaneous](#miscellaneous)
 
 ## Community
@@ -21,6 +22,9 @@
 
 ## Local Training
 - [How to run DeepRacer Locally](https://medium.com/@autonomousracecarclub/how-to-run-deepracer-locally-to-save-your-wallet-13ccc878687)
+
+## Udacity
+- [Unofficial Leaderboard](https://unofficialleaderboards.anvil.app/)
 
 ## Miscellaneous
 - [Udacity Scolarship](https://www.udacity.com/aws-deepracer-scholarship) - Site for Udacity DeepRacer Scolarship Challenge
