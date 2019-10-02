@@ -19,6 +19,7 @@
 
 ## Development
 - [Reward Function Parameters](https://docs.aws.amazon.com/deepracer/latest/developerguide/deepracer-reward-function-input.html)
+- [How to analyze the logs](https://codelikeamother.uk/analyzing-the-aws-deepracer-logs-my-way)
 
 ## Local Training
 - [How to run DeepRacer Locally](https://medium.com/@autonomousracecarclub/how-to-run-deepracer-locally-to-save-your-wallet-13ccc878687)
