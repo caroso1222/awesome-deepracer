@@ -25,6 +25,7 @@
 ## Local Training
 - [How to run DeepRacer Locally](https://medium.com/@autonomousracecarclub/how-to-run-deepracer-locally-to-save-your-wallet-13ccc878687)
 - [How to train DeepRacer in Mac](https://gist.github.com/joezen777/6657bbe2bd4add5d1cdbd44db9761edb)
+- [AWS DeepRacer AMI](https://github.com/jarrettj/deepracer-ami) - Train using a EC2 instance
 
 ## Udacity
 - [Unofficial Leaderboard](https://unofficialleaderboards.anvil.app/)
