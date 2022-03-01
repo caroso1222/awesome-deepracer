@@ -16,6 +16,7 @@
 
 - [Slack](https://sites.google.com/udacity.com/awsdeepracerchallenge/home) - Udacity Scolarship Slack Workplace
 - [Google Site](https://sites.google.com/udacity.com/awsdeepracerchallenge/home) - Udacity Official Google Site
+- [DeepRacer Community](https://deepracing.io/) - AWS DeepRacer Community Official Website
 
 ## Development
 - [Reward Function Parameters](https://docs.aws.amazon.com/deepracer/latest/developerguide/deepracer-reward-function-input.html)
