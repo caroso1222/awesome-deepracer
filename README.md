@@ -34,6 +34,7 @@
 
 ## Miscellaneous
 - [Udacity Scolarship](https://www.udacity.com/aws-deepracer-scholarship) - Site for Udacity DeepRacer Scolarship Challenge
+- [AWS AI & ML Scholarship Program](https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program) - Site for AWS AI & ML Scholarship Program
 
 ## Contributing
 Please ensure your pull request adheres to the following guidelines:
