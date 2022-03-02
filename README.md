@@ -14,6 +14,8 @@
 
 ## Community
 
+- [DeepRacer Community](https://deepracing.io/) - AWS DeepRacer Community Official Website
+- [DeepRacer Slack](https://aws-ml-community.slack.com/join/shared_invite/zt-ovapd436-0_0Hfv9z8i7IvqjFomw59w#/shared-invite/email) - AWS DeepRacer Community Official Slack
 - [Slack](https://sites.google.com/udacity.com/awsdeepracerchallenge/home) - Udacity Scolarship Slack Workplace
 - [Google Site](https://sites.google.com/udacity.com/awsdeepracerchallenge/home) - Udacity Official Google Site
 
@@ -31,7 +33,9 @@
 - [Unofficial Leaderboard](https://unofficialleaderboards.anvil.app/)
 
 ## Miscellaneous
+- [AWS AI & ML Scholarship Program](https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program) - Site for AWS AI & ML Scholarship Program
 - [Udacity Scolarship](https://www.udacity.com/aws-deepracer-scholarship) - Site for Udacity DeepRacer Scolarship Challenge
+
 
 ## Contributing
 Please ensure your pull request adheres to the following guidelines:
